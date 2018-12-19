@@ -1,4 +1,4 @@
 # Personal-Website-Editorial
 ## A simple website for you
 
-![IMG](./public/src-sheet.jpg)
+![IMG](./public/src-shot1.jpg)
